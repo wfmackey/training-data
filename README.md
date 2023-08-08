@@ -1,2 +1,3 @@
 # training-data
- Some data files to use in training
+
+Some data files to use.
